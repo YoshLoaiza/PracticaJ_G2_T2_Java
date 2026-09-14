@@ -8,12 +8,13 @@ package Logica;
  *
  * @author joss
  */
+//comentarios
 public class Recursividades {
      public int CalcularFactorial(int num)
     {
-    if(num==1)
+    if(num== 1   )
     {
-    return 1;
+    return 1;   
     }
     return num*CalcularFactorial(num-1);
     }

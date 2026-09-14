@@ -15,6 +15,8 @@ public class PracticaJ_G2_T2_Java {
     /**
      * @param args the command line arguments
      */
+    
+    //este es el principal
     public static void main(String[] args) {
        System.out.println("Metodos Recursivos");
         System.out.println("\n\nCalcular factorial de 5");
